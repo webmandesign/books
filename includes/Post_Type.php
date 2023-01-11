@@ -71,6 +71,7 @@ class Post_Type {
 				'menu_position' => 0,
 				'menu_icon'     => 'dashicons-book-alt',
 				'labels'        => $labels,
+				'show_in_rest'  => true, // Required for FSE.
 			) );
 
 	} // /init
