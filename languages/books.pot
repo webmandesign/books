@@ -1,0 +1,447 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Books\n"
+"Report-Msgid-Bugs-To: https://support.webmandesign.eu\n"
+"POT-Creation-Date: 2023-01-11 00:50+0100\n"
+"PO-Revision-Date: 2015-05-12 20:39+0100\n"
+"Last-Translator: Oliver Juhas, WebMan Design\n"
+"Language-Team: WebMan Design\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/Post_Type.php:39
+msgctxt "Post type general name"
+msgid "Books"
+msgstr ""
+
+#: includes/Post_Type.php:40
+msgctxt "Post type singular name"
+msgid "Book"
+msgstr ""
+
+#: includes/Post_Type.php:41
+msgctxt "Admin Menu text"
+msgid "Books"
+msgstr ""
+
+#: includes/Post_Type.php:42
+msgctxt "Add New on Toolbar"
+msgid "Book"
+msgstr ""
+
+#: includes/Post_Type.php:43
+msgctxt "Book"
+msgid "Add New"
+msgstr ""
+
+#: includes/Post_Type.php:44
+msgid "Add New Book"
+msgstr ""
+
+#: includes/Post_Type.php:45
+msgid "New Book"
+msgstr ""
+
+#: includes/Post_Type.php:46
+msgid "Edit Book"
+msgstr ""
+
+#: includes/Post_Type.php:47
+msgid "View Book"
+msgstr ""
+
+#: includes/Post_Type.php:48
+msgid "All Books"
+msgstr ""
+
+#: includes/Post_Type.php:49
+msgid "Search Books"
+msgstr ""
+
+#: includes/Post_Type.php:50
+msgid "No books found."
+msgstr ""
+
+#: includes/Post_Type.php:51
+msgid "No books found in Trash."
+msgstr ""
+
+#: includes/Post_Type.php:52
+msgctxt "Overrides the “Featured Image” phrase for this post type."
+msgid "Book Cover Image"
+msgstr ""
+
+#: includes/Post_Type.php:53
+msgctxt "Overrides the “Set featured image” phrase for this post type."
+msgid "Set cover image"
+msgstr ""
+
+#: includes/Post_Type.php:54
+msgctxt "Overrides the “Remove featured image” phrase for this post type."
+msgid "Remove cover image"
+msgstr ""
+
+#: includes/Post_Type.php:55
+msgctxt "Overrides the “Use as featured image” phrase for this post type."
+msgid "Use as cover image"
+msgstr ""
+
+#: includes/Post_Type.php:56
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”."
+msgid "Book archives"
+msgstr ""
+
+#: includes/Post_Type.php:57
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post)."
+msgid "Insert into book"
+msgstr ""
+
+#: includes/Post_Type.php:58
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post)."
+msgid "Uploaded to this book"
+msgstr ""
+
+#: includes/Post_Type.php:59
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”."
+msgid "Filter books list"
+msgstr ""
+
+#: includes/Post_Type.php:60
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”."
+msgid "Books list navigation"
+msgstr ""
+
+#: includes/Post_Type.php:61
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”."
+msgid "Books list"
+msgstr ""
+
+#: includes/tax/author.php:22
+msgctxt "Taxonomy general name"
+msgid "Authors"
+msgstr ""
+
+#: includes/tax/author.php:23
+msgctxt "Taxonomy singular name"
+msgid "Author"
+msgstr ""
+
+#: includes/tax/author.php:24
+msgid "Search Authors"
+msgstr ""
+
+#: includes/tax/author.php:25
+msgid "All Authors"
+msgstr ""
+
+#: includes/tax/author.php:26
+msgid "View Author"
+msgstr ""
+
+#: includes/tax/author.php:27
+msgid "Edit Author"
+msgstr ""
+
+#: includes/tax/author.php:28
+msgid "Update Author"
+msgstr ""
+
+#: includes/tax/author.php:29
+msgid "Add New Author"
+msgstr ""
+
+#: includes/tax/author.php:30
+msgid "New Author Name"
+msgstr ""
+
+#: includes/tax/author.php:31
+msgid "No Authors Found"
+msgstr ""
+
+#: includes/tax/author.php:32
+msgid "Back to Authors"
+msgstr ""
+
+#: includes/tax/author.php:33
+msgid "Author"
+msgstr ""
+
+#: includes/tax/category.php:22
+msgctxt "Taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: includes/tax/category.php:23
+msgctxt "Taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: includes/tax/category.php:24
+msgid "Search Categories"
+msgstr ""
+
+#: includes/tax/category.php:25
+msgid "All Categories"
+msgstr ""
+
+#: includes/tax/category.php:26
+msgid "View Category"
+msgstr ""
+
+#: includes/tax/category.php:27
+msgid "Edit Category"
+msgstr ""
+
+#: includes/tax/category.php:28
+msgid "Update Category"
+msgstr ""
+
+#: includes/tax/category.php:29
+msgid "Add New Category"
+msgstr ""
+
+#: includes/tax/category.php:30
+msgid "New Category Name"
+msgstr ""
+
+#: includes/tax/category.php:31
+msgid "No Categories Found"
+msgstr ""
+
+#: includes/tax/category.php:32
+msgid "Back to Categories"
+msgstr ""
+
+#: includes/tax/category.php:33
+msgid "Category"
+msgstr ""
+
+#: includes/tax/category.php:34
+msgid "Parent Category"
+msgstr ""
+
+#: includes/tax/category.php:35
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/tax/format.php:22
+msgctxt "Taxonomy general name"
+msgid "Formats"
+msgstr ""
+
+#: includes/tax/format.php:23
+msgctxt "Taxonomy singular name"
+msgid "Format"
+msgstr ""
+
+#: includes/tax/format.php:24
+msgid "Search Formats"
+msgstr ""
+
+#: includes/tax/format.php:25
+msgid "All Formats"
+msgstr ""
+
+#: includes/tax/format.php:26
+msgid "View Format"
+msgstr ""
+
+#: includes/tax/format.php:27
+msgid "Edit Format"
+msgstr ""
+
+#: includes/tax/format.php:28
+msgid "Update Format"
+msgstr ""
+
+#: includes/tax/format.php:29
+msgid "Add New Format"
+msgstr ""
+
+#: includes/tax/format.php:30
+msgid "New Format Name"
+msgstr ""
+
+#: includes/tax/format.php:31
+msgid "No Formats Found"
+msgstr ""
+
+#: includes/tax/format.php:32
+msgid "Back to Formats"
+msgstr ""
+
+#: includes/tax/format.php:33
+msgid "Format"
+msgstr ""
+
+#: includes/tax/language.php:22
+msgctxt "Taxonomy general name"
+msgid "Languages"
+msgstr ""
+
+#: includes/tax/language.php:23
+msgctxt "Taxonomy singular name"
+msgid "Language"
+msgstr ""
+
+#: includes/tax/language.php:24
+msgid "Search Languages"
+msgstr ""
+
+#: includes/tax/language.php:25
+msgid "All Languages"
+msgstr ""
+
+#: includes/tax/language.php:26
+msgid "View Language"
+msgstr ""
+
+#: includes/tax/language.php:27
+msgid "Edit Language"
+msgstr ""
+
+#: includes/tax/language.php:28
+msgid "Update Language"
+msgstr ""
+
+#: includes/tax/language.php:29
+msgid "Add New Language"
+msgstr ""
+
+#: includes/tax/language.php:30
+msgid "New Language Name"
+msgstr ""
+
+#: includes/tax/language.php:31
+msgid "No Languages Found"
+msgstr ""
+
+#: includes/tax/language.php:32
+msgid "Back to Languages"
+msgstr ""
+
+#: includes/tax/language.php:33
+msgid "Language"
+msgstr ""
+
+#: includes/tax/publisher.php:22
+msgctxt "Taxonomy general name"
+msgid "Publishers"
+msgstr ""
+
+#: includes/tax/publisher.php:23
+msgctxt "Taxonomy singular name"
+msgid "Publisher"
+msgstr ""
+
+#: includes/tax/publisher.php:24
+msgid "Search Publishers"
+msgstr ""
+
+#: includes/tax/publisher.php:25
+msgid "All Publishers"
+msgstr ""
+
+#: includes/tax/publisher.php:26
+msgid "View Publisher"
+msgstr ""
+
+#: includes/tax/publisher.php:27
+msgid "Edit Publisher"
+msgstr ""
+
+#: includes/tax/publisher.php:28
+msgid "Update Publisher"
+msgstr ""
+
+#: includes/tax/publisher.php:29
+msgid "Add New Publisher"
+msgstr ""
+
+#: includes/tax/publisher.php:30
+msgid "New Publisher Name"
+msgstr ""
+
+#: includes/tax/publisher.php:31
+msgid "No Publishers Found"
+msgstr ""
+
+#: includes/tax/publisher.php:32
+msgid "Back to Publishers"
+msgstr ""
+
+#: includes/tax/publisher.php:33
+msgid "Publisher"
+msgstr ""
+
+#: includes/tax/tag.php:22
+msgctxt "Taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: includes/tax/tag.php:23
+msgctxt "Taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: includes/tax/tag.php:24
+msgid "Search Tags"
+msgstr ""
+
+#: includes/tax/tag.php:25
+msgid "All Tags"
+msgstr ""
+
+#: includes/tax/tag.php:26
+msgid "View Tag"
+msgstr ""
+
+#: includes/tax/tag.php:27
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/tax/tag.php:28
+msgid "Update Tag"
+msgstr ""
+
+#: includes/tax/tag.php:29
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/tax/tag.php:30
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/tax/tag.php:31
+msgid "No Tags Found"
+msgstr ""
+
+#: includes/tax/tag.php:32
+msgid "Back to Tags"
+msgstr ""
+
+#: includes/tax/tag.php:33
+msgid "Tag"
+msgstr ""
