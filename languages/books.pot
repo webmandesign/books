@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Books\n"
 "Report-Msgid-Bugs-To: https://support.webmandesign.eu\n"
-"POT-Creation-Date: 2023-01-11 00:50+0100\n"
+"POT-Creation-Date: 2023-03-01 13:57+0100\n"
 "PO-Revision-Date: 2015-05-12 20:39+0100\n"
 "Last-Translator: Oliver Juhas, WebMan Design\n"
 "Language-Team: WebMan Design\n"
@@ -394,6 +394,56 @@ msgstr ""
 
 #: includes/tax/publisher.php:33
 msgid "Publisher"
+msgstr ""
+
+#: includes/tax/rating.php:22
+msgctxt "Taxonomy general name"
+msgid "Rating"
+msgstr ""
+
+#: includes/tax/rating.php:23
+msgctxt "Taxonomy singular name"
+msgid "Rating"
+msgstr ""
+
+#: includes/tax/rating.php:24
+msgid "Search Rating"
+msgstr ""
+
+#: includes/tax/rating.php:25
+msgid "All Rating"
+msgstr ""
+
+#: includes/tax/rating.php:26
+msgid "View Rating"
+msgstr ""
+
+#: includes/tax/rating.php:27
+msgid "Edit Rating"
+msgstr ""
+
+#: includes/tax/rating.php:28
+msgid "Update Rating"
+msgstr ""
+
+#: includes/tax/rating.php:29
+msgid "Add New Rating"
+msgstr ""
+
+#: includes/tax/rating.php:30
+msgid "New Rating Name"
+msgstr ""
+
+#: includes/tax/rating.php:31
+msgid "No Rating Found"
+msgstr ""
+
+#: includes/tax/rating.php:32
+msgid "Back to Rating"
+msgstr ""
+
+#: includes/tax/rating.php:33
+msgid "Rating"
 msgstr ""
 
 #: includes/tax/tag.php:22

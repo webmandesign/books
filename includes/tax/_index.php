@@ -3,7 +3,8 @@
  * @package    Books
  * @copyright  WebMan Design, Oliver Juhas
  *
- * @since  1.0.0
+ * @since    1.0.0
+ * @version  1.1.0
  */
 
 // Exit if accessed directly.
@@ -14,4 +15,5 @@ require_once 'category.php';
 require_once 'format.php';
 require_once 'language.php';
 require_once 'publisher.php';
+require_once 'rating.php';
 require_once 'tag.php';

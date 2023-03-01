@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Books\n"
 "Report-Msgid-Bugs-To: https://support.webmandesign.eu\n"
-"POT-Creation-Date: 2023-01-11 00:50+0100\n"
-"PO-Revision-Date: 2023-01-11 00:50+0100\n"
+"POT-Creation-Date: 2023-03-01 13:57+0100\n"
+"PO-Revision-Date: 2023-03-01 13:58+0100\n"
 "Last-Translator: Oliver Juhas, WebMan Design\n"
 "Language-Team: WebMan Design\n"
 "Language: sk_SK\n"
@@ -394,6 +394,56 @@ msgstr "Späť na vydavateľov"
 #: includes/tax/publisher.php:33
 msgid "Publisher"
 msgstr "Vydavateľ"
+
+#: includes/tax/rating.php:22
+msgctxt "Taxonomy general name"
+msgid "Rating"
+msgstr "Hodnotenie"
+
+#: includes/tax/rating.php:23
+msgctxt "Taxonomy singular name"
+msgid "Rating"
+msgstr "Hodnotenie"
+
+#: includes/tax/rating.php:24
+msgid "Search Rating"
+msgstr "Vyhľadať hodnotenie"
+
+#: includes/tax/rating.php:25
+msgid "All Rating"
+msgstr "Všetky hodnotenia"
+
+#: includes/tax/rating.php:26
+msgid "View Rating"
+msgstr "Zobraziť hodnotenie"
+
+#: includes/tax/rating.php:27
+msgid "Edit Rating"
+msgstr "Upraviť hodnotenie"
+
+#: includes/tax/rating.php:28
+msgid "Update Rating"
+msgstr "Aktualizovať hodnotenie"
+
+#: includes/tax/rating.php:29
+msgid "Add New Rating"
+msgstr "Pridať nové hodnotenie"
+
+#: includes/tax/rating.php:30
+msgid "New Rating Name"
+msgstr "Názov nového hodnotenia"
+
+#: includes/tax/rating.php:31
+msgid "No Rating Found"
+msgstr "Nenašlo sa žiadne hodnotenie"
+
+#: includes/tax/rating.php:32
+msgid "Back to Rating"
+msgstr "Späť na hodnotenie"
+
+#: includes/tax/rating.php:33
+msgid "Rating"
+msgstr "Hodnotenie"
 
 #: includes/tax/tag.php:22
 msgctxt "Taxonomy general name"
