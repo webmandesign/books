@@ -14,7 +14,7 @@ namespace WebManDesign\Books;
 defined( 'ABSPATH' ) || exit;
 
 Taxonomy::add_taxonomy(
-	'tag', array(
+	'rating', array(
 		'public'            => true,
 		'hierarchical'      => false,
 		'show_admin_column' => true,
